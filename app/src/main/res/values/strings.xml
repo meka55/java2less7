@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">java2less7</string>
+    <string name="toast.massage">На ноль делить нельзя</string>
+</resources>
